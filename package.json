@@ -1,0 +1,24 @@
+{
+  "name": "accounttypedetection",
+  "version": "1.0.0",
+  "main": "accountTypeChecker.js",
+  "scripts": {
+    "test": "mocha *.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishnetworks/accountTypeDetection.git"
+  },
+  "author": "Ashish Dandgawhale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishnetworks/accountTypeDetection/issues"
+  },
+  "homepage": "https://github.com/ashishnetworks/accountTypeDetection#readme",
+  "description": "",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.2"
+  }
+}
